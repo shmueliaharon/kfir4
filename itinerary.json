@@ -1,0 +1,1939 @@
+{
+  "title": "מסלול הטיול שלי - טיול למזרח 2026",
+  "days": [
+    {
+      "date": "23.12",
+      "location": "בנגקוק",
+      "country": "תאילנד",
+      "lodging": "siam stadium hostel",
+      "transfers": [
+        "טיסה מישראל לשדה תעופה סוונאפום בנגקוק"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "grand place - מתחם מקדשי המלך",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "chatuchak markt - שוק מקומי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "asiatique - שוק לילה על הנהר",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "wat arun -מקדש",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "iconsiam - קניון ענק",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "wat pho - מקדש הבודה השוכב",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "dusit central park - פארק טבע מטורף",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "תצפית מגדל מאהאנקון  - Mahanakhon Tower",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "sampeng market - שוק מקומי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שיט בנהר??",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "chinatown - רחוב אוכל",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "pak khlong talat - שוק פרחים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "24.12",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "25.12",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "26.12",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "טיול יום מחוץ לבנגקוק?",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "27.12",
+      "location": "בנגקוק + \nקופנגן",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "טיסה משדה תעופה דון מואנג בנגקוק לסורטאני",
+        "וואן ומעבורת סגור"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "28.12",
+      "location": "קופנגן",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "dao -  מסעדת שף ישראלי יוקרתי"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "טיול יום - 42 האיים - Ang Thong",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול יום קוטאו ונאנג יואן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול סובב קופנגן ברכב 4X4",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שוק אוכל יום ראשון - הד רין",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול יום בגונגלים חופים ומפלים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "29.12",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "30.12",
+      "location": "קופנגן + \nקוסמוי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "31.12",
+      "location": "קוסמוי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "the cocoon - בית קפה מסעדה"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "טיול 42 האיים - יותר זול מקופנגן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "אי החזירים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "אומגות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טרקטורונים ברחבי האי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "רחבת מקדשים - wat plai laem",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שוק לילה כפר הדייגים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "central samui - מרכז קניות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "1.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "coco tams - מסעדה בכפר הדייגים עם מופעי אש בלילה"
+      ],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "2.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "the jungle club - מסעדה בתצפית"
+      ],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "3.1",
+      "location": "קוסמוי +\nקראבי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "4.1",
+      "location": "קראבי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "5.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "6.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "7.1",
+      "location": "קראבי + פוקט",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "8.1",
+      "location": "פוקט",
+      "country": "תאילנד",
+      "lodging": "patong Poshtel\n270 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "מופע פנטזי - מתחם הופעות בלילה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שייט 4 האיים כולל אי גימס בונד",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שייט 7 האיים - מפרץ פאנג נגה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "חוות פילים טיפולית",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "אומגות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "הבודהה הגדולה - תצפית",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "העיר העתיקה - מקדש צאלונג ופרה טונג",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "דרך באנגלה - רחוב מרכזי בפאטונג",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "9.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "10.1",
+      "location": "פוקט + צאנג מאי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "11.1",
+      "location": "צאנג מאי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "שוק יום ראשון בעיר העתיקה"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "ריבוע העיר העתיקה והמקדשים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Doi Suthep + wat phra lat - הר מקדשים ומפלים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול יום - Doi Inthanon, מקדשים ומפלים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Skyline adventure - אומגות מטורפות, קצת רחוק",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול למפלים הדביקים וdontewada - מפלים ובית קפה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "חוות פילים - chai lai orchid",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "ראפטינג אקסטרים מטורף",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "12.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "נייט באזאר - שוק לילה"
+      ],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "13.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "בית קפה - chom café",
+        "varsailles de flore - בית קפה בעיר העתיקה"
+      ],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "14.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "15.1",
+      "location": "צאנג מאי + פאי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "צריך סגור וואן מצאנג מאי לפאי"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "16.1",
+      "location": "פאי",
+      "country": "תאילנד",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [
+        "שוק לילה - וואקינג סטריט"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "Pai Canyon - קניון עם נופים מטורפים (שקיעה)",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Morpaeng Waterfall - מפלים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Pai Zipline - אומגות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Pam Bok - מפלים ומסלול בטבע",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Wat Phra That Mae Yen - מקדש בודהה לבנה ותצפית על פאי והאיזור",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "גשר במבוק - Kho Ku So Bamboo Bridge",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Mae Yen Waterfall - מפלים טיול כמה שעות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "yun lai, Two Huts Pai - תצפיות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "17.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "18.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "19.1",
+      "location": "פאי + צאנג ראי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "וואן מפאי לצאנג מאי",
+        "וואן / אוטובוס מצאנג מאי לצאנג ראי"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "20.1",
+      "location": "צאנג ראי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "lalita café - בית קפה"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "Chiang Rai Night Bazaar - שוק אוכל וקניות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Khun Korn Waterfall - מפלים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "אופציה לטיול יום לנק הרשומות -",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Wat Rong Khun - המקדש הלבן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Wat Rong Suea Ten - המקדש הכחול",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "תצפית דוי טונג - לוודא שחלק מהטיול",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Choui Fong Tea  - שדות תה (לשלב עם דוי טונג)",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "21.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "22.1",
+      "location": "צאנג ראי + לואנג פראבנג לאוס",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "צריך לסגור מעבר קרקעי - המעבר לוקח בין יום ליומיים. סוכנות נסיעות מקומית."
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "23.1",
+      "location": "לואנג פראבנג",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "שוק לילה מטורף"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "מפלי קונג סי - Kuang Si Waterfall",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "הר פו סי - שקיעה וארוחה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "סיור בכפר הפילים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Royal Palace Museum - מוזיאון לאומי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מפלי Tad Sae - מפלים קטנים ובריכות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מקדשים - מקדש וואט סיאנג תונג",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "24.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "25.1",
+      "location": "לואנג פראבנג + נונג קיאו",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "צריך לסגור וואן / שייט בנהר"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "26.1",
+      "location": "נונג קיאו",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "27.1",
+      "location": "נונג קיאו",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "28.1",
+      "location": "נונג קיאו + ואנג ויאנג",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "לסגור וואן ללואנג פרבנג ומשם רכבת לואנג ויאנג"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "29.1",
+      "location": "ואנג ויאנג",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "30.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "31.1",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "1.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "2.2",
+      "location": "ואנג ויאנג + ויאנטין",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "רכבת לויאנטין"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "3.2",
+      "location": "ויאנטין",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [
+        "טיילת המקונג - טיילת על הנהר עם מלא אוכל"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "wat si saket - מתחם מקדשים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "patuxai - שער הניצחון",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "that luang -מקדש מרכזי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "פארק הבודהה - מחוץ לויאנטין",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "4.2",
+      "location": "ויאנטין + תאקק",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "לסגור סליפר / נסיעה באוטובוס במהלך היום"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "5.2",
+      "location": "לופ תאקק",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "טוסטוס?"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "https://mizrah.co.il/%D7%98%D7%94-%D7%A7%D7%A7-thakhek-2/",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "6.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "7.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "8.2",
+      "location": "תאקק + פאקסה",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "לסגור אוטובוס / סליפר / מיני ואן"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "9.2",
+      "location": "לופ פקסה",
+      "country": "לאוס",
+      "lodging": "",
+      "transfers": [
+        "טוסטוס?"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "https://eastcardil.co.il/loop-pakse-laos/",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "10.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "11.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "12.2",
+      "location": "פאקסה + דון דאט",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "אוטובוס / וואן ומעבורת קצרה"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "13.2",
+      "location": "דון דאט",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "התניידות בעיקר באופניים"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "Li Phi Somphamit Waterfalls - מפלים מטורפים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "Khong Phapheng - מפלים עצומים (קצת רחוקים)",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול באופניים ברחבי האי + האי דון קון",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שייט בנהר המקונג",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "14.2",
+      "location": "דון דאט",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "15.2",
+      "location": "דון דאט + סיאם ריפ",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "אוטובוס סליפר / וואן - מעבר גבול"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "16.2",
+      "location": "סיאם ריפ",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "מקדשי אנגקור",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "ביקור באגם טונלה סאפ והכפר הצף",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "קרקס קמבודי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טיול יום - פארק קולן - נוף וטבע מטורף ומפלים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שווקי לילה - אוכל וברים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "17.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "18.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "19.2",
+      "location": "סיאם ריפ + הו צי מין (סייגון)",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "אוטובוס סליפר / טיסה"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "20.2",
+      "location": "הו צי מין",
+      "country": "תאילנד",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [
+        "שוק בין טאי",
+        "Bui Vien Street‬"
+      ],
+      "summary": "",
+      "places": [
+        {
+          "name": "שייט בנהר המקונן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מנהרות המלחמה - מחוץ לעיר",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "בניין הדואר הישן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "קטדרלת נוטרדם",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מקדש קאו דאי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מוזיאון המלחמה - War Remnants Museum",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "ארמון האיחוד (Reunification Palace)",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "21.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "22.2",
+      "location": "הו צי מין + דאלאת",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "סליפר"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "23.2",
+      "location": "דאלאת",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "גן הפרחים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שוק הלילה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "הבית המשוגע - בית בעיצוב מטורף",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "datanla waterfalls - מפלי דאטלן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "xuan huong - אגם סואן הונג",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מפלים - דטנלה, פונגור, פיל, קם לי ודמברי",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "סנפלינג מפלים חובה!!!",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מונגולנד - מגלשת קשת בענן ומריו קארד",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "24.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "25.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "26.2",
+      "location": "דאלאת + הוי אן",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "סליפר / טיסה"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "27.2",
+      "location": "הוי אן",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "סדנאת אוכל!",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "טרה קואה - כפר חקלאי סמוך להוי אן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "העיר העתיקה והגשר היפני - ancient town",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שייט בנהר - thu bon",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "סירות עגולות ביער הקוקוסים",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "חופים לא רחוקים - cua dai / an bang",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "28.2",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "1.3",
+      "location": "הוי אן + דה נאנג",
+      "country": "תאילנד",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [
+        "אוטובוס / מונית - נסיעה קצרה"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "2.3",
+      "location": "דה נאנג",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "חוף - my khe",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "בה נה הילס - פארק בהר יפיפה (גשר הידיים)",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "גשר הדרקון",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "הרי השיש, מקדשי שיש ולידי בודהה - סון טרה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "3.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "4.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "5.3",
+      "location": "הואה + פונג נה",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "נסיעה באוטובוס"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "6.3",
+      "location": "פונג נה",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "טיול במערות - חובה לסגור מראש!",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "7.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "8.3",
+      "location": "פונג נה + טאם קוק",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [
+        "אוטובוס / סליפר"
+      ],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "9.3",
+      "location": "טאם קוק",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "באי דין – מתחם מקדשים ופגודה ענקית – חצי שעה נסיעה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "העיר העתיקה הואה לו Hoa Lu Ancient Capital",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "האנג מואה – תצפית ופגודה מדהימה – 500 מדרגות",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "פגודת bich dong",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "שייט נהר נגו דונג / טראנג אן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "10.3",
+      "location": "טאם קוק",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "11.3",
+      "location": "טאם קוק + הא לונג ביי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "נסיעה מוקדם לשייט + לילה אחד - לסגור מראש",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "12.3",
+      "location": "האלונג ביי + האנוי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "13.3",
+      "location": "האנוי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "מולוזיאום הו צי מין",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "אגם הואן קיאם ומקדש טראן קואוק",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "העיר העתיקה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "רחוב הרכבת",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מקדש הספרות - Temple of Literature",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "בית האופרה",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "14.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "15.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "16.3",
+      "location": "האנוי + הא גיאנג",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "17.3",
+      "location": "לופ הא גיאנג",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "לופ ויאטנם - לסגור מראש",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "18.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "19.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "20.3",
+      "location": "הא גיאנג + סאפה",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "21.3",
+      "location": "סאפה",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": [
+        {
+          "name": "ביקור אצל מאמא",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מפלי הכסף",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "מעבר גן עדן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "כפר קאט קאט",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        },
+        {
+          "name": "הר פאנסיפאן",
+          "type": "אטרקציה",
+          "description": "",
+          "tips": "",
+          "website": ""
+        }
+      ]
+    },
+    {
+      "date": "22.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "23.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "24.3",
+      "location": "סאפה + האנוי",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "25.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "26.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "27.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "28.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "29.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "30.3",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "31.3",
+      "location": "האנוי - טיסה ליפן",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    },
+    {
+      "date": "1.4",
+      "location": "",
+      "country": "תאילנד",
+      "lodging": "",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "",
+      "places": []
+    }
+  ]
+}
