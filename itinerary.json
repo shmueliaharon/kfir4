@@ -15,86 +15,86 @@
         {
           "name": "grand place - מתחם מקדשי המלך",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "הארמון המלכותי הגדול הוא מתחם היסטורי מרכזי בבנגקוק, ובו גם מקדש וואט פרה קאו (בודהה האזמרגד). זהו אחד מאתרי החובה בעיר.",
+          "tips": "להגיע מוקדם, חם וצפוף בצהריים. כתפיים וברכיים מכוסים. להביא דרכון/צילום דרכון אם מבקשים זיהוי.",
+          "website": "https://www.royalgrandpalace.th/en/home"
         },
         {
           "name": "chatuchak markt - שוק מקומי",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "שוק צ'טוצ'ק (Chatuchak Weekend Market) הוא אחד השווקים הגדולים בעולם, פעיל בעיקר בסופי שבוע, עם אלפי דוכנים של בגדים, אוכל, עבודות יד ועוד.",
+          "tips": "להגיע מוקדם ולהביא מים. בשעות הצהריים חם מאוד.",
+          "website": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
         },
         {
           "name": "asiatique - שוק לילה על הנהר",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "אסיאטיק דה ריברפרונט הוא מתחם ערב על הנהר עם חנויות, מסעדות ואטרקציות, אווירה נעימה להליכה בלילה ולעיתים גם מופעים.",
+          "tips": "מומלץ להגיע אחרי השקיעה. אפשר לשלב שייט/מעבורת על הנהר.",
+          "website": "https://www.facebook.com/Asiatique.Thailand/"
         },
         {
           "name": "wat arun -מקדש",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "וואט ארון (מקדש השחר) שוכן על גדת נהר צ'או פראיה ומזוהה עם המגדל המרכזי (prang) המעוטר. נוף יפה מהנהר, במיוחד לקראת ערב.",
+          "tips": "שילוב נוח עם שיט/מעבורת על הנהר. להגיע בשעות אחר הצהריים.",
+          "website": "https://en.wikipedia.org/wiki/Wat_Arun"
         },
         {
           "name": "iconsiam - קניון ענק",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "ICONSIAM הוא מתחם קניות ובילוי גדול על גדת נהר צ'או פראיה, עם מסעדות, אירועים וגישה גם בסירה. מתאים לערב נעים לאורך הטיילת.",
+          "tips": "מומלץ להגיע לקראת שקיעה ולשלב שיט קצר על הנהר. מצוין כהפסקת מזגן באמצע היום.",
+          "website": "https://www.iconsiamhall.com/en/contact-us"
         },
         {
           "name": "wat pho - מקדש הבודה השוכב",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "וואט פו הוא אחד המקדשים החשובים בבנגקוק, מפורסם בפסל הבודהה השוכב הענק ובמסורת העיסוי התאילנדי (בית ספר לעיסוי).",
+          "tips": "לבוש צנוע. אפשר לשלב טיפול עיסוי במתחם (בתיאום ובזמן פנוי).",
+          "website": "https://en.wikipedia.org/wiki/Wat_Pho"
         },
         {
           "name": "dusit central park - פארק טבע מטורף",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
+          "description": "אזור פארק/מרחב ירוק חדש יחסית במרכז העיר (סביב מתחם דוסיט). מתאים לעצירה רגועה, קפה והליכה קלה.",
+          "tips": "כדאי לבדוק שעות פתיחה ומצב עבודה באתר לפני הגעה, כי פרויקטים בעיר משתנים.",
           "website": ""
         },
         {
           "name": "תצפית מגדל מאהאנקון  - Mahanakhon Tower",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "תצפית Mahanakhon SkyWalk נמצאת במגדל King Power Mahanakhon ומציעה תצפית פנורמית גבוהה במיוחד על בנגקוק, כולל רצפת זכוכית בחלק מהמסלול.",
+          "tips": "להגיע בשעת שקיעה אם אפשר. להזמין כרטיסים מראש בעונות עמוסות.",
+          "website": "https://kingpowermahanakhon.co.th/"
         },
         {
           "name": "sampeng market - שוק מקומי",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "Sampeng Market הוא אזור שווקים וסמטאות מסחר בצ'יינה טאון, מוכר בקניות זולות, אביזרים, טקסטיל ומתנות קטנות.",
+          "tips": "צפוף מאוד, להגיע עם נעליים נוחות ולהיזהר מכייסים. עדיף להגיע מוקדם.",
+          "website": "https://en.wikipedia.org/wiki/Sampeng"
         },
         {
           "name": "שיט בנהר??",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "שיט בנהר צ'או פראיה הוא דרך נעימה לראות את בנגקוק מהמים, לעבור ליד מקדשים ואתרים מרכזיים וליהנות מאוויר נוח יותר בערב.",
+          "tips": "בדקו אם זה שיט ציבורי (מעבורת) או שיט ערב עם ארוחה, והתאימו לפי התקציב והזמן.",
+          "website": "https://www.tripadvisor.com/Attraction_Review-g293916-d456782-Reviews-Chao_Phraya_River-Bangkok.html"
         },
         {
           "name": "chinatown - רחוב אוכל",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "יאווואראט הוא הרחוב המרכזי של צ'יינה טאון בבנגקוק, ידוע באוכל רחוב, שווקים ואווירה תוססת במיוחד בערב.",
+          "tips": "להגיע בערב לשיא הדוכנים. מומלץ להסתובב רגלית ולא עם רכב.",
+          "website": "https://en.wikipedia.org/wiki/Yaowarat_Road"
         },
         {
           "name": "pak khlong talat - שוק פרחים",
           "type": "אטרקציה",
-          "description": "",
-          "tips": "",
-          "website": ""
+          "description": "שוק הפרחים פאק קלונג טלאט הוא שוק סיטונאי מפורסם בבנגקוק, פעיל במיוחד בלילה ובשעות הבוקר המוקדמות, עם מגוון עצום של פרחים טריים.",
+          "tips": "הכי מרשים בלילה או לפנות בוקר. נוח לשלב עם סיבוב בצ'יינה טאון הקרובה.",
+          "website": "https://en.wikipedia.org/wiki/Pak_Khlong_Talat"
         }
       ]
     },
@@ -1202,7 +1202,7 @@
       "transfers": [],
       "restaurants": [
         "שוק בין טאי",
-        "Bui Vien Street‬"
+        "Bui Vien Street"
       ],
       "summary": "",
       "places": [
