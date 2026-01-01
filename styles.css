@@ -156,3 +156,6 @@ body{
   .dayList{grid-template-columns:1fr 1fr}
   .places{grid-template-columns:1fr 1fr}
 }
+
+
+.placeLinks{display:flex;gap:8px;align-items:center;}

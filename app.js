@@ -154,8 +154,15 @@ function placeCard(p, fallbackQuery){
   const type = String(p.type || 'מקום').trim();
   const desc = String(p.description || '').trim();
   const tips = String(p.tips || '').trim();
-  const website = String(p.website || '').trim();
-  const maps = mapsSearchUrl(fallbackQuery || name);
+  const websiteRaw = String(p.website || '').trim();
+
+  const query = ((fallbackQuery || '') + ' ' + name).trim();
+  const mapsUrl = mapsSearchUrl(query);
+
+  // אם אין אתר רשמי, או אם השדה מכיל לינק למפות/מקוצר (עם ...), נפתח "מידע נוסף" דרך חיפוש בגוגל
+  const looksShortened = websiteRaw.includes('...');
+  const looksMaps = websiteRaw.includes('google.com/maps');
+  const infoUrl = (websiteRaw && !looksMaps && !looksShortened) ? websiteRaw : ('https://www.google.com/search?q=' + encodeURIComponent(query));
 
   return `
     <div class="placeCard">
@@ -164,13 +171,15 @@ function placeCard(p, fallbackQuery){
           <div class="placeName">${escapeHtml(name)}</div>
           <div class="placeType">${escapeHtml(type)}</div>
         </div>
-        <a class="smallLink" target="_blank" rel="noopener" href="${website ? escapeHtml(website) : maps}">פתח</a>
+        <div class="placeLinks">
+          <a class="smallLink" target="_blank" rel="noopener" href="${mapsUrl}">מפות</a>
+          <a class="smallLink" target="_blank" rel="noopener" href="${escapeHtml(infoUrl)}">מידע</a>
+        </div>
       </div>
       ${desc ? `<div class="placeDesc">${escapeHtml(desc)}</div>` : ''}
       ${tips ? `<div class="placeTips"><b>טיפ:</b> ${escapeHtml(tips)}</div>` : ''}
       <div class="placeActions">
-        <button class="btnSmall" type="button" data-copy="${escapeHtml(name)}">העתק שם</button>
-        <a class="btnSmall" target="_blank" rel="noopener" href="${maps}">מפות</a>
+        <button class="smallBtn" data-copy="${escapeHtml(name)}">העתק שם</button>
       </div>
     </div>
   `;
