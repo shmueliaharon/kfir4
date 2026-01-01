@@ -154,26 +154,37 @@ function placeCard(p, fallbackQuery){
   const type = String(p.type || 'מקום').trim();
   const desc = String(p.description || '').trim();
   const tips = String(p.tips || '').trim();
-  const websiteRaw = String(p.website || '').trim();
+  let websiteRaw = String(p.website || '').trim();
 
-  const query = ((fallbackQuery || '') + ' ' + name).trim();
+  // Normalize website URL if user entered "www..."
+  if (websiteRaw && websiteRaw.startsWith('www.')) websiteRaw = 'https://' + websiteRaw;
+
+  const query = (name + ' ' + String(fallbackQuery || '')).trim();
   const mapsUrl = mapsSearchUrl(query);
 
-  // אם אין אתר רשמי, או אם השדה מכיל לינק למפות/מקוצר (עם ...), נפתח "מידע נוסף" דרך חיפוש בגוגל
+  // Website button:
+  // - If we have a real website URL, open it
+  // - Otherwise open a Google search ("more info")
   const looksShortened = websiteRaw.includes('...');
   const looksMaps = websiteRaw.includes('google.com/maps');
-  const infoUrl = (websiteRaw && !looksMaps && !looksShortened) ? websiteRaw : ('https://www.google.com/search?q=' + encodeURIComponent(query));
+  const hasWebsite = Boolean(websiteRaw) && !looksMaps && !looksShortened;
+
+  const infoUrl = hasWebsite
+    ? websiteRaw
+    : ('https://www.google.com/search?q=' + encodeURIComponent(query));
+
+  const infoLabel = hasWebsite ? 'אתר' : 'מידע נוסף';
 
   return `
     <div class="placeCard">
       <div class="placeTop">
         <div>
-          <div class="placeName">${escapeHtml(name)}</div>
+          <div class="placeName">${escapeHtml(name || 'מקום')}</div>
           <div class="placeType">${escapeHtml(type)}</div>
         </div>
         <div class="placeLinks">
           <a class="smallLink" target="_blank" rel="noopener" href="${mapsUrl}">מפות</a>
-          <a class="smallLink" target="_blank" rel="noopener" href="${escapeHtml(infoUrl)}">מידע</a>
+          <a class="smallLink" target="_blank" rel="noopener" href="${infoUrl}">${infoLabel}</a>
         </div>
       </div>
       ${desc ? `<div class="placeDesc">${escapeHtml(desc)}</div>` : ''}
@@ -184,6 +195,7 @@ function placeCard(p, fallbackQuery){
     </div>
   `;
 }
+
 
 function renderDay(data, idx){
   const day = (data.days || [])[idx];
